@@ -1,9 +1,11 @@
 from collections import defaultdict
 import json
 import time
+import random
 from tqdm import tqdm
-from gazpacho import get
 import pandas as pd
+
+from gazpacho import get
 
 def get_vote(number):
     url = 'http://api.openparliament.ca/votes/ballots/'
@@ -23,15 +25,11 @@ def parse_votes(vote):
     votes = {mp: b for mp, b in votes}
     return votes
 
-import random
-
 all_votes = defaultdict(dict)
 for vote in tqdm(range(1, 1379 + 1)):
     all_votes[vote] = parse_votes(vote)
     s = 0.5 + random.randint(-4, 4) / 10
     time.sleep(s)
 
-with open('votes.json', 'w') as f:
+with open('data/votes.json', 'w') as f:
     json.dump(all_votes, f, ensure_ascii=False, indent=2)
-
-# TODO: change to votes

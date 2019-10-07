@@ -1,0 +1,1672 @@
+{
+  "ziad-aboultaif": {
+    "province": "AB",
+    "riding": "Edmonton Manning",
+    "party": "Conservative"
+  },
+  "john-barlow": {
+    "province": "AB",
+    "riding": "Foothills",
+    "party": "Conservative"
+  },
+  "bob-benzen": {
+    "province": "AB",
+    "riding": "Calgary Heritage",
+    "party": "Conservative"
+  },
+  "randy-boissonnault": {
+    "province": "AB",
+    "riding": "Edmonton Centre",
+    "party": "Liberal"
+  },
+  "blaine-calkins": {
+    "province": "AB",
+    "riding": "Red Deer—Lacombe",
+    "party": "Conservative"
+  },
+  "michael-cooper": {
+    "province": "AB",
+    "riding": "St. Albert—Edmonton",
+    "party": "Conservative"
+  },
+  "kerry-diotte": {
+    "province": "AB",
+    "riding": "Edmonton Griesbach",
+    "party": "Conservative"
+  },
+  "earl-dreeshen": {
+    "province": "AB",
+    "riding": "Red Deer—Mountain View",
+    "party": "Conservative"
+  },
+  "linda-duncan": {
+    "province": "AB",
+    "riding": "Edmonton Strathcona",
+    "party": "NDP"
+  },
+  "jim-eglinski": {
+    "province": "AB",
+    "riding": "Yellowhead",
+    "party": "Conservative"
+  },
+  "garnett-genuis": {
+    "province": "AB",
+    "riding": "Sherwood Park—Fort Saskatchewan",
+    "party": "Conservative"
+  },
+  "rachael-harder": {
+    "province": "AB",
+    "riding": "Lethbridge",
+    "party": "Conservative"
+  },
+  "kent-hehr": {
+    "province": "AB",
+    "riding": "Calgary Centre",
+    "party": "Liberal"
+  },
+  "matt-jeneroux": {
+    "province": "AB",
+    "riding": "Edmonton Riverbend",
+    "party": "Conservative"
+  },
+  "darshan-singh-kang": {
+    "province": "AB",
+    "riding": "Calgary Skyview",
+    "party": "Independent"
+  },
+  "pat-kelly": {
+    "province": "AB",
+    "riding": "Calgary Rocky Ridge",
+    "party": "Conservative"
+  },
+  "tom-kmiec": {
+    "province": "AB",
+    "riding": "Calgary Shepard",
+    "party": "Conservative"
+  },
+  "stephanie-kusie": {
+    "province": "AB",
+    "riding": "Calgary Midnapore",
+    "party": "Conservative"
+  },
+  "mike-lake": {
+    "province": "AB",
+    "riding": "Edmonton—Wetaskiwin",
+    "party": "Conservative"
+  },
+  "ron-liepert": {
+    "province": "AB",
+    "riding": "Calgary Signal Hill",
+    "party": "Conservative"
+  },
+  "dane-lloyd": {
+    "province": "AB",
+    "riding": "Sturgeon River—Parkland",
+    "party": "Conservative"
+  },
+  "kelly-mccauley": {
+    "province": "AB",
+    "riding": "Edmonton West",
+    "party": "Conservative"
+  },
+  "glen-motz": {
+    "province": "AB",
+    "riding": "Medicine Hat—Cardston—Warner",
+    "party": "Conservative"
+  },
+  "michelle-rempel": {
+    "province": "AB",
+    "riding": "Calgary Nose Hill",
+    "party": "Conservative"
+  },
+  "blake-richards": {
+    "province": "AB",
+    "riding": "Banff—Airdrie",
+    "party": "Conservative"
+  },
+  "martin-shields": {
+    "province": "AB",
+    "riding": "Bow River",
+    "party": "Conservative"
+  },
+  "amarjeet-sohi": {
+    "province": "AB",
+    "riding": "Edmonton Mill Woods",
+    "party": "Liberal"
+  },
+  "kevin-sorenson": {
+    "province": "AB",
+    "riding": "Battle River—Crowfoot",
+    "party": "Conservative"
+  },
+  "shannon-stubbs": {
+    "province": "AB",
+    "riding": "Lakeland",
+    "party": "Conservative"
+  },
+  "arnold-viersen": {
+    "province": "AB",
+    "riding": "Peace River—Westlock",
+    "party": "Conservative"
+  },
+  "chris-warkentin": {
+    "province": "AB",
+    "riding": "Grande Prairie—Mackenzie",
+    "party": "Conservative"
+  },
+  "len-webber": {
+    "province": "AB",
+    "riding": "Calgary Confederation",
+    "party": "Conservative"
+  },
+  "david-yurdiga": {
+    "province": "AB",
+    "riding": "Fort McMurray—Cold Lake",
+    "party": "Conservative"
+  },
+  "dan-albas": {
+    "province": "BC",
+    "riding": "Central Okanagan—Similkameen—Nicola",
+    "party": "Conservative"
+  },
+  "john-aldag": {
+    "province": "BC",
+    "riding": "Cloverdale—Langley City",
+    "party": "Liberal"
+  },
+  "mel-arnold": {
+    "province": "BC",
+    "riding": "North Okanagan—Shuswap",
+    "party": "Conservative"
+  },
+  "terry-beech": {
+    "province": "BC",
+    "riding": "Burnaby North—Seymour",
+    "party": "Liberal"
+  },
+  "rachel-blaney": {
+    "province": "BC",
+    "riding": "North Island—Powell River",
+    "party": "NDP"
+  },
+  "richard-cannings": {
+    "province": "BC",
+    "riding": "South Okanagan—West Kootenay",
+    "party": "NDP"
+  },
+  "nathan-cullen": {
+    "province": "BC",
+    "riding": "Skeena—Bulkley Valley",
+    "party": "NDP"
+  },
+  "don-davies": {
+    "province": "BC",
+    "riding": "Vancouver Kingsway",
+    "party": "NDP"
+  },
+  "sukh-dhaliwal": {
+    "province": "BC",
+    "riding": "Surrey—Newton",
+    "party": "Liberal"
+  },
+  "todd-doherty": {
+    "province": "BC",
+    "riding": "Cariboo—Prince George",
+    "party": "Conservative"
+  },
+  "fin-donnelly": {
+    "province": "BC",
+    "riding": "Port Moody—Coquitlam",
+    "party": "NDP"
+  },
+  "ed-fast": {
+    "province": "BC",
+    "riding": "Abbotsford",
+    "party": "Conservative"
+  },
+  "hedy-fry": {
+    "province": "BC",
+    "riding": "Vancouver Centre",
+    "party": "Liberal"
+  },
+  "stephen-fuhr": {
+    "province": "BC",
+    "riding": "Kelowna—Lake Country",
+    "party": "Liberal"
+  },
+  "randall-garrison": {
+    "province": "BC",
+    "riding": "Esquimalt—Saanich—Sooke",
+    "party": "NDP"
+  },
+  "pam-goldsmith-jones": {
+    "province": "BC",
+    "riding": "West Vancouver—Sunshine Coast—Sea to Sky Country",
+    "party": "Liberal"
+  },
+  "ken-hardie": {
+    "province": "BC",
+    "riding": "Fleetwood—Port Kells",
+    "party": "Liberal"
+  },
+  "gordie-hogg": {
+    "province": "BC",
+    "riding": "South Surrey—White Rock",
+    "party": "Liberal"
+  },
+  "gord-johns": {
+    "province": "BC",
+    "riding": "Courtenay—Alberni",
+    "party": "NDP"
+  },
+  "peter-julian": {
+    "province": "BC",
+    "riding": "New Westminster—Burnaby",
+    "party": "NDP"
+  },
+  "jenny-kwan": {
+    "province": "BC",
+    "riding": "Vancouver East",
+    "party": "NDP"
+  },
+  "alistair-macgregor": {
+    "province": "BC",
+    "riding": "Cowichan—Malahat—Langford",
+    "party": "NDP"
+  },
+  "paul-manly": {
+    "province": "BC",
+    "riding": "Nanaimo—Ladysmith",
+    "party": "Green"
+  },
+  "elizabeth-may": {
+    "province": "BC",
+    "riding": "Saanich—Gulf Islands",
+    "party": "Green"
+  },
+  "ron-mckinnon": {
+    "province": "BC",
+    "riding": "Coquitlam—Port Coquitlam",
+    "party": "Liberal"
+  },
+  "cathy-mcleod": {
+    "province": "BC",
+    "riding": "Kamloops—Thompson—Cariboo",
+    "party": "Conservative"
+  },
+  "joyce-murray": {
+    "province": "BC",
+    "riding": "Vancouver Quadra",
+    "party": "Liberal"
+  },
+  "joe-peschisolido": {
+    "province": "BC",
+    "riding": "Steveston—Richmond East",
+    "party": "Liberal"
+  },
+  "carla-qualtrough": {
+    "province": "BC",
+    "riding": "Delta",
+    "party": "Liberal"
+  },
+  "murray-rankin": {
+    "province": "BC",
+    "riding": "Victoria",
+    "party": "NDP"
+  },
+  "dan-ruimy": {
+    "province": "BC",
+    "riding": "Pitt Meadows—Maple Ridge",
+    "party": "Liberal"
+  },
+  "harjit-s-sajjan": {
+    "province": "BC",
+    "riding": "Vancouver South",
+    "party": "Liberal"
+  },
+  "randeep-sarai": {
+    "province": "BC",
+    "riding": "Surrey Centre",
+    "party": "Liberal"
+  },
+  "jati-sidhu": {
+    "province": "BC",
+    "riding": "Mission—Matsqui—Fraser Canyon",
+    "party": "Liberal"
+  },
+  "jagmeet-singh": {
+    "province": "BC",
+    "riding": "Burnaby South",
+    "party": "NDP"
+  },
+  "wayne-stetski": {
+    "province": "BC",
+    "riding": "Kootenay—Columbia",
+    "party": "NDP"
+  },
+  "mark-strahl": {
+    "province": "BC",
+    "riding": "Chilliwack—Hope",
+    "party": "Conservative"
+  },
+  "jonathan-wilkinson": {
+    "province": "BC",
+    "riding": "North Vancouver",
+    "party": "Liberal"
+  },
+  "jody-wilson-raybould": {
+    "province": "BC",
+    "riding": "Vancouver Granville",
+    "party": "Independent"
+  },
+  "alice-wong": {
+    "province": "BC",
+    "riding": "Richmond Centre",
+    "party": "Conservative"
+  },
+  "bob-zimmer": {
+    "province": "BC",
+    "riding": "Prince George—Peace River—Northern Rockies",
+    "party": "Conservative"
+  },
+  "niki-ashton": {
+    "province": "MB",
+    "riding": "Churchill—Keewatinook Aski",
+    "party": "NDP"
+  },
+  "candice-hoeppner": {
+    "province": "MB",
+    "riding": "Portage—Lisgar",
+    "party": "Conservative"
+  },
+  "james-bezan": {
+    "province": "MB",
+    "riding": "Selkirk—Interlake—Eastman",
+    "party": "Conservative"
+  },
+  "daniel-blaikie": {
+    "province": "MB",
+    "riding": "Elmwood—Transcona",
+    "party": "NDP"
+  },
+  "jim-carr": {
+    "province": "MB",
+    "riding": "Winnipeg South Centre",
+    "party": "Liberal"
+  },
+  "terry-duguid": {
+    "province": "MB",
+    "riding": "Winnipeg South",
+    "party": "Liberal"
+  },
+  "doug-eyolfson": {
+    "province": "MB",
+    "riding": "Charleswood—St. James—Assiniboia—Headingley",
+    "party": "Liberal"
+  },
+  "ted-falk": {
+    "province": "MB",
+    "riding": "Provencher",
+    "party": "Conservative"
+  },
+  "kevin-lamoureux": {
+    "province": "MB",
+    "riding": "Winnipeg North",
+    "party": "Liberal"
+  },
+  "larry-maguire": {
+    "province": "MB",
+    "riding": "Brandon—Souris",
+    "party": "Conservative"
+  },
+  "maryann-mihychuk": {
+    "province": "MB",
+    "riding": "Kildonan—St. Paul",
+    "party": "Liberal"
+  },
+  "robert-falcon-ouellette": {
+    "province": "MB",
+    "riding": "Winnipeg Centre",
+    "party": "Liberal"
+  },
+  "robert-sopuck": {
+    "province": "MB",
+    "riding": "Dauphin—Swan River—Neepawa",
+    "party": "Conservative"
+  },
+  "dan-vandal": {
+    "province": "MB",
+    "riding": "Saint Boniface—Saint Vital",
+    "party": "Liberal"
+  },
+  "rene-arseneault": {
+    "province": "NB",
+    "riding": "Madawaska—Restigouche",
+    "party": "Liberal"
+  },
+  "serge-cormier": {
+    "province": "NB",
+    "riding": "Acadie—Bathurst",
+    "party": "Liberal"
+  },
+  "matt-decourcey": {
+    "province": "NB",
+    "riding": "Fredericton",
+    "party": "Liberal"
+  },
+  "pat-finnigan": {
+    "province": "NB",
+    "riding": "Miramichi—Grand Lake",
+    "party": "Liberal"
+  },
+  "tj-harvey": {
+    "province": "NB",
+    "riding": "Tobique—Mactaquac",
+    "party": "Liberal"
+  },
+  "dominic-leblanc": {
+    "province": "NB",
+    "riding": "Beauséjour",
+    "party": "Liberal"
+  },
+  "alaina-lockhart": {
+    "province": "NB",
+    "riding": "Fundy Royal",
+    "party": "Liberal"
+  },
+  "wayne-long": {
+    "province": "NB",
+    "riding": "Saint John—Rothesay",
+    "party": "Liberal"
+  },
+  "karen-ludwig": {
+    "province": "NB",
+    "riding": "New Brunswick Southwest",
+    "party": "Liberal"
+  },
+  "ginette-petitpas-taylor": {
+    "province": "NB",
+    "riding": "Moncton—Riverview—Dieppe",
+    "party": "Liberal"
+  },
+  "gudie-hutchings": {
+    "province": "NL",
+    "riding": "Long Range Mountains",
+    "party": "Liberal"
+  },
+  "yvonne-jones": {
+    "province": "NL",
+    "riding": "Labrador",
+    "party": "Liberal"
+  },
+  "ken-mcdonald": {
+    "province": "NL",
+    "riding": "Avalon",
+    "party": "Liberal"
+  },
+  "seamus-oregan": {
+    "province": "NL",
+    "riding": "St. John's South—Mount Pearl",
+    "party": "Liberal"
+  },
+  "churence-rogers": {
+    "province": "NL",
+    "riding": "Bonavista—Burin—Trinity",
+    "party": "Liberal"
+  },
+  "scott-simms": {
+    "province": "NL",
+    "riding": "Coast of Bays—Central—Notre Dame",
+    "party": "Liberal"
+  },
+  "nick-whalen": {
+    "province": "NL",
+    "riding": "St. John's East",
+    "party": "Liberal"
+  },
+  "bill-casey": {
+    "province": "NS",
+    "riding": "Cumberland—Colchester",
+    "party": "Liberal"
+  },
+  "rodger-cuzner": {
+    "province": "NS",
+    "riding": "Cape Breton—Canso",
+    "party": "Liberal"
+  },
+  "mark-eyking": {
+    "province": "NS",
+    "riding": "Sydney—Victoria",
+    "party": "Liberal"
+  },
+  "andy-fillmore": {
+    "province": "NS",
+    "riding": "Halifax",
+    "party": "Liberal"
+  },
+  "darren-fisher": {
+    "province": "NS",
+    "riding": "Dartmouth—Cole Harbour",
+    "party": "Liberal"
+  },
+  "sean-fraser": {
+    "province": "NS",
+    "riding": "Central Nova",
+    "party": "Liberal"
+  },
+  "colin-fraser": {
+    "province": "NS",
+    "riding": "West Nova",
+    "party": "Liberal"
+  },
+  "bernadette-jordan": {
+    "province": "NS",
+    "riding": "South Shore—St. Margarets",
+    "party": "Liberal"
+  },
+  "geoff-regan": {
+    "province": "NS",
+    "riding": "Halifax West",
+    "party": "Liberal"
+  },
+  "darrell-samson": {
+    "province": "NS",
+    "riding": "Sackville—Preston—Chezzetcook",
+    "party": "Liberal"
+  },
+  "michael-mcleod": {
+    "province": "NT",
+    "riding": "Northwest Territories",
+    "party": "Liberal"
+  },
+  "hunter-tootoo": {
+    "province": "NU",
+    "riding": "Nunavut",
+    "party": "Independent"
+  },
+  "harold-albrecht": {
+    "province": "ON",
+    "riding": "Kitchener—Conestoga",
+    "party": "Conservative"
+  },
+  "omar-alghabra": {
+    "province": "ON",
+    "riding": "Mississauga Centre",
+    "party": "Liberal"
+  },
+  "leona-alleslev": {
+    "province": "ON",
+    "riding": "Aurora—Oak Ridges—Richmond Hill",
+    "party": "Conservative"
+  },
+  "dean-allison": {
+    "province": "ON",
+    "riding": "Niagara West",
+    "party": "Conservative"
+  },
+  "gary-anandasangaree": {
+    "province": "ON",
+    "riding": "Scarborough—Rouge Park",
+    "party": "Liberal"
+  },
+  "charlie-angus": {
+    "province": "ON",
+    "riding": "Timmins—James Bay",
+    "party": "NDP"
+  },
+  "chandra-arya": {
+    "province": "ON",
+    "riding": "Nepean",
+    "party": "Liberal"
+  },
+  "vance-badawey": {
+    "province": "ON",
+    "riding": "Niagara Centre",
+    "party": "Liberal"
+  },
+  "navdeep-bains": {
+    "province": "ON",
+    "riding": "Mississauga—Malton",
+    "party": "Liberal"
+  },
+  "michael-barrett": {
+    "province": "ON",
+    "riding": "Leeds—Grenville—Thousand Islands and Rideau Lakes",
+    "party": "Conservative"
+  },
+  "carolyn-bennett": {
+    "province": "ON",
+    "riding": "Toronto—St. Paul's",
+    "party": "Liberal"
+  },
+  "chris-bittle": {
+    "province": "ON",
+    "riding": "St. Catharines",
+    "party": "Liberal"
+  },
+  "bill-blair": {
+    "province": "ON",
+    "riding": "Scarborough Southwest",
+    "party": "Liberal"
+  },
+  "mike-bossio": {
+    "province": "ON",
+    "riding": "Hastings—Lennox and Addington",
+    "party": "Liberal"
+  },
+  "john-brassard": {
+    "province": "ON",
+    "riding": "Barrie—Innisfil",
+    "party": "Conservative"
+  },
+  "bob-bratina": {
+    "province": "ON",
+    "riding": "Hamilton East—Stoney Creek",
+    "party": "Liberal"
+  },
+  "celina-caesar-chavannes": {
+    "province": "ON",
+    "riding": "Whitby",
+    "party": "Independent"
+  },
+  "colin-carrie": {
+    "province": "ON",
+    "riding": "Oshawa",
+    "party": "Conservative"
+  },
+  "bardish-chagger": {
+    "province": "ON",
+    "riding": "Waterloo",
+    "party": "Liberal"
+  },
+  "shaun-chen": {
+    "province": "ON",
+    "riding": "Scarborough North",
+    "party": "Liberal"
+  },
+  "michael-chong": {
+    "province": "ON",
+    "riding": "Wellington—Halton Hills",
+    "party": "Conservative"
+  },
+  "david-christopherson": {
+    "province": "ON",
+    "riding": "Hamilton Centre",
+    "party": "NDP"
+  },
+  "tony-clement": {
+    "province": "ON",
+    "riding": "Parry Sound—Muskoka",
+    "party": "Independent"
+  },
+  "julie-dabrusin": {
+    "province": "ON",
+    "riding": "Toronto—Danforth",
+    "party": "Liberal"
+  },
+  "pam-damoff": {
+    "province": "ON",
+    "riding": "Oakville North—Burlington",
+    "party": "Liberal"
+  },
+  "scot-davidson": {
+    "province": "ON",
+    "riding": "York—Simcoe",
+    "party": "Conservative"
+  },
+  "francis-drouin": {
+    "province": "ON",
+    "riding": "Glengarry—Prescott—Russell",
+    "party": "Liberal"
+  },
+  "kirsty-duncan": {
+    "province": "ON",
+    "riding": "Etobicoke North",
+    "party": "Liberal"
+  },
+  "scott-duvall": {
+    "province": "ON",
+    "riding": "Hamilton Mountain",
+    "party": "NDP"
+  },
+  "julie-dzerowicz": {
+    "province": "ON",
+    "riding": "Davenport",
+    "party": "Liberal"
+  },
+  "ali-ehsassi": {
+    "province": "ON",
+    "riding": "Willowdale",
+    "party": "Liberal"
+  },
+  "neil-ellis": {
+    "province": "ON",
+    "riding": "Bay of Quinte",
+    "party": "Liberal"
+  },
+  "nathaniel-erskine-smith": {
+    "province": "ON",
+    "riding": "Beaches—East York",
+    "party": "Liberal"
+  },
+  "diane-finley": {
+    "province": "ON",
+    "riding": "Haldimand—Norfolk",
+    "party": "Conservative"
+  },
+  "peter-fonseca": {
+    "province": "ON",
+    "riding": "Mississauga East—Cooksville",
+    "party": "Liberal"
+  },
+  "mona-fortier": {
+    "province": "ON",
+    "riding": "Ottawa—Vanier",
+    "party": "Liberal"
+  },
+  "peter-fragiskatos": {
+    "province": "ON",
+    "riding": "London North Centre",
+    "party": "Liberal"
+  },
+  "chrystia-freeland": {
+    "province": "ON",
+    "riding": "University—Rosedale",
+    "party": "Liberal"
+  },
+  "cheryl-gallant": {
+    "province": "ON",
+    "riding": "Renfrew—Nipissing—Pembroke",
+    "party": "Conservative"
+  },
+  "mark-gerretsen": {
+    "province": "ON",
+    "riding": "Kingston and the Islands",
+    "party": "Liberal"
+  },
+  "marilyn-gladu": {
+    "province": "ON",
+    "riding": "Sarnia—Lambton",
+    "party": "Conservative"
+  },
+  "karina-gould": {
+    "province": "ON",
+    "riding": "Burlington",
+    "party": "Liberal"
+  },
+  "raj-grewal": {
+    "province": "ON",
+    "riding": "Brampton East",
+    "party": "Independent"
+  },
+  "patty-hajdu": {
+    "province": "ON",
+    "riding": "Thunder Bay—Superior North",
+    "party": "Liberal"
+  },
+  "cheryl-hardcastle": {
+    "province": "ON",
+    "riding": "Windsor—Tecumseh",
+    "party": "NDP"
+  },
+  "mark-holland": {
+    "province": "ON",
+    "riding": "Ajax",
+    "party": "Liberal"
+  },
+  "carol-hughes": {
+    "province": "ON",
+    "riding": "Algoma—Manitoulin—Kapuskasing",
+    "party": "NDP"
+  },
+  "ahmed-hussen": {
+    "province": "ON",
+    "riding": "York South—Weston",
+    "party": "Liberal"
+  },
+  "majid-jowhari": {
+    "province": "ON",
+    "riding": "Richmond Hill",
+    "party": "Liberal"
+  },
+  "peter-kent": {
+    "province": "ON",
+    "riding": "Thornhill",
+    "party": "Conservative"
+  },
+  "iqra-khalid": {
+    "province": "ON",
+    "riding": "Mississauga—Erin Mills",
+    "party": "Liberal"
+  },
+  "kamal-khera": {
+    "province": "ON",
+    "riding": "Brampton West",
+    "party": "Liberal"
+  },
+  "guy-lauzon": {
+    "province": "ON",
+    "riding": "Stormont—Dundas—South Glengarry",
+    "party": "Conservative"
+  },
+  "paul-lefebvre": {
+    "province": "ON",
+    "riding": "Sudbury",
+    "party": "Liberal"
+  },
+  "kellie-leitch": {
+    "province": "ON",
+    "riding": "Simcoe—Grey",
+    "party": "Conservative"
+  },
+  "andrew-leslie": {
+    "province": "ON",
+    "riding": "Orléans",
+    "party": "Liberal"
+  },
+  "michael-levitt": {
+    "province": "ON",
+    "riding": "York Centre",
+    "party": "Liberal"
+  },
+  "ben-lobb": {
+    "province": "ON",
+    "riding": "Huron—Bruce",
+    "party": "Conservative"
+  },
+  "lloyd-longfield": {
+    "province": "ON",
+    "riding": "Guelph",
+    "party": "Liberal"
+  },
+  "dave-mackenzie": {
+    "province": "ON",
+    "riding": "Oxford",
+    "party": "Conservative"
+  },
+  "james-maloney": {
+    "province": "ON",
+    "riding": "Etobicoke—Lakeshore",
+    "party": "Liberal"
+  },
+  "brian-masse": {
+    "province": "ON",
+    "riding": "Windsor West",
+    "party": "NDP"
+  },
+  "irene-mathyssen": {
+    "province": "ON",
+    "riding": "London—Fanshawe",
+    "party": "NDP"
+  },
+  "bryan-may": {
+    "province": "ON",
+    "riding": "Cambridge",
+    "party": "Liberal"
+  },
+  "phil-mccoleman": {
+    "province": "ON",
+    "riding": "Brantford—Brant",
+    "party": "Conservative"
+  },
+  "karen-mccrimmon": {
+    "province": "ON",
+    "riding": "Kanata—Carleton",
+    "party": "Liberal"
+  },
+  "david-mcguinty": {
+    "province": "ON",
+    "riding": "Ottawa South",
+    "party": "Liberal"
+  },
+  "john-mckay": {
+    "province": "ON",
+    "riding": "Scarborough—Guildwood",
+    "party": "Liberal"
+  },
+  "catherine-mckenna": {
+    "province": "ON",
+    "riding": "Ottawa Centre",
+    "party": "Liberal"
+  },
+  "marco-mendicino": {
+    "province": "ON",
+    "riding": "Eglinton—Lawrence",
+    "party": "Liberal"
+  },
+  "larry-miller": {
+    "province": "ON",
+    "riding": "Bruce—Grey—Owen Sound",
+    "party": "Conservative"
+  },
+  "maryam-monsef": {
+    "province": "ON",
+    "riding": "Peterborough—Kawartha",
+    "party": "Liberal"
+  },
+  "bill-morneau": {
+    "province": "ON",
+    "riding": "Toronto Centre",
+    "party": "Liberal"
+  },
+  "john-nater": {
+    "province": "ON",
+    "riding": "Perth—Wellington",
+    "party": "Conservative"
+  },
+  "bob-nault": {
+    "province": "ON",
+    "riding": "Kenora",
+    "party": "Liberal"
+  },
+  "mary-ng": {
+    "province": "ON",
+    "riding": "Markham—Thornhill",
+    "party": "Liberal"
+  },
+  "rob-nicholson": {
+    "province": "ON",
+    "riding": "Niagara Falls",
+    "party": "Conservative"
+  },
+  "alex-nuttall": {
+    "province": "ON",
+    "riding": "Barrie—Springwater—Oro-Medonte",
+    "party": "Conservative"
+  },
+  "jennifer-oconnell": {
+    "province": "ON",
+    "riding": "Pickering—Uxbridge",
+    "party": "Liberal"
+  },
+  "rob-oliphant": {
+    "province": "ON",
+    "riding": "Don Valley West",
+    "party": "Liberal"
+  },
+  "john-oliver": {
+    "province": "ON",
+    "riding": "Oakville",
+    "party": "Liberal"
+  },
+  "erin-otoole": {
+    "province": "ON",
+    "riding": "Durham",
+    "party": "Conservative"
+  },
+  "kyle-peterson": {
+    "province": "ON",
+    "riding": "Newmarket—Aurora",
+    "party": "Liberal"
+  },
+  "jane-philpott": {
+    "province": "ON",
+    "riding": "Markham—Stouffville",
+    "party": "Independent"
+  },
+  "pierre-poilievre": {
+    "province": "ON",
+    "riding": "Carleton",
+    "party": "Conservative"
+  },
+  "lisa-raitt": {
+    "province": "ON",
+    "riding": "Milton",
+    "party": "Conservative"
+  },
+  "tracey-ramsey": {
+    "province": "ON",
+    "riding": "Essex",
+    "party": "NDP"
+  },
+  "yasmin-ratansi": {
+    "province": "ON",
+    "riding": "Don Valley East",
+    "party": "Liberal"
+  },
+  "scott-reid": {
+    "province": "ON",
+    "riding": "Lanark—Frontenac—Kingston",
+    "party": "Conservative"
+  },
+  "anthony-rota": {
+    "province": "ON",
+    "riding": "Nipissing—Timiskaming",
+    "party": "Liberal"
+  },
+  "kim-rudd": {
+    "province": "ON",
+    "riding": "Northumberland—Peterborough South",
+    "party": "Liberal"
+  },
+  "don-rusnak": {
+    "province": "ON",
+    "riding": "Thunder Bay—Rainy River",
+    "party": "Liberal"
+  },
+  "ruby-sahota": {
+    "province": "ON",
+    "riding": "Brampton North",
+    "party": "Liberal"
+  },
+  "raj-saini": {
+    "province": "ON",
+    "riding": "Kitchener Centre",
+    "party": "Liberal"
+  },
+  "ramesh-sangha": {
+    "province": "ON",
+    "riding": "Brampton Centre",
+    "party": "Liberal"
+  },
+  "bob-saroya": {
+    "province": "ON",
+    "riding": "Markham—Unionville",
+    "party": "Conservative"
+  },
+  "jamie-schmale": {
+    "province": "ON",
+    "riding": "Haliburton—Kawartha Lakes—Brock",
+    "party": "Conservative"
+  },
+  "deb-schulte": {
+    "province": "ON",
+    "riding": "King—Vaughan",
+    "party": "Liberal"
+  },
+  "marc-serre": {
+    "province": "ON",
+    "riding": "Nickel Belt",
+    "party": "Liberal"
+  },
+  "judy-sgro": {
+    "province": "ON",
+    "riding": "Humber River—Black Creek",
+    "party": "Liberal"
+  },
+  "terry-sheehan": {
+    "province": "ON",
+    "riding": "Sault Ste. Marie",
+    "party": "Liberal"
+  },
+  "bev-shipley": {
+    "province": "ON",
+    "riding": "Lambton—Kent—Middlesex",
+    "party": "Conservative"
+  },
+  "sonia-sidhu": {
+    "province": "ON",
+    "riding": "Brampton South",
+    "party": "Liberal"
+  },
+  "gagan-sikand": {
+    "province": "ON",
+    "riding": "Mississauga—Streetsville",
+    "party": "Liberal"
+  },
+  "francesco-sorbara": {
+    "province": "ON",
+    "riding": "Vaughan—Woodbridge",
+    "party": "Liberal"
+  },
+  "sven-spengemann": {
+    "province": "ON",
+    "riding": "Mississauga—Lakeshore",
+    "party": "Liberal"
+  },
+  "bruce-stanton": {
+    "province": "ON",
+    "riding": "Simcoe North",
+    "party": "Conservative"
+  },
+  "david-sweet": {
+    "province": "ON",
+    "riding": "Flamborough—Glanbrook",
+    "party": "Conservative"
+  },
+  "marwan-tabbara": {
+    "province": "ON",
+    "riding": "Kitchener South—Hespeler",
+    "party": "Liberal"
+  },
+  "geng-tan": {
+    "province": "ON",
+    "riding": "Don Valley North",
+    "party": "Liberal"
+  },
+  "filomena-tassi": {
+    "province": "ON",
+    "riding": "Hamilton West—Ancaster—Dundas",
+    "party": "Liberal"
+  },
+  "david-tilson": {
+    "province": "ON",
+    "riding": "Dufferin—Caledon",
+    "party": "Conservative"
+  },
+  "anita-vandenbeld": {
+    "province": "ON",
+    "riding": "Ottawa West—Nepean",
+    "party": "Liberal"
+  },
+  "dave-van-kesteren": {
+    "province": "ON",
+    "riding": "Chatham-Kent—Leamington",
+    "party": "Conservative"
+  },
+  "adam-vaughan": {
+    "province": "ON",
+    "riding": "Spadina—Fort York",
+    "party": "Liberal"
+  },
+  "karen-vecchio": {
+    "province": "ON",
+    "riding": "Elgin—Middlesex—London",
+    "party": "Conservative"
+  },
+  "arif-virani": {
+    "province": "ON",
+    "riding": "Parkdale—High Park",
+    "party": "Liberal"
+  },
+  "borys-wrzesnewskyj": {
+    "province": "ON",
+    "riding": "Etobicoke Centre",
+    "party": "Liberal"
+  },
+  "jean-yip": {
+    "province": "ON",
+    "riding": "Scarborough—Agincourt",
+    "party": "Liberal"
+  },
+  "kate-young": {
+    "province": "ON",
+    "riding": "London West",
+    "party": "Liberal"
+  },
+  "salma-zahid": {
+    "province": "ON",
+    "riding": "Scarborough Centre",
+    "party": "Liberal"
+  },
+  "sean-casey": {
+    "province": "PE",
+    "riding": "Charlottetown",
+    "party": "Liberal"
+  },
+  "wayne-easter": {
+    "province": "PE",
+    "riding": "Malpeque",
+    "party": "Liberal"
+  },
+  "lawrence-macaulay": {
+    "province": "PE",
+    "riding": "Cardigan",
+    "party": "Liberal"
+  },
+  "bobby-morrissey": {
+    "province": "PE",
+    "riding": "Egmont",
+    "party": "Liberal"
+  },
+  "william-amos": {
+    "province": "QC",
+    "riding": "Pontiac",
+    "party": "Liberal"
+  },
+  "robert-aubin": {
+    "province": "QC",
+    "riding": "Trois-Rivières",
+    "party": "NDP"
+  },
+  "ramez-ayoub": {
+    "province": "QC",
+    "riding": "Thérèse-De Blainville",
+    "party": "Liberal"
+  },
+  "xavier-barsalou-duval": {
+    "province": "QC",
+    "riding": "Pierre-Boucher—Les Patriotes—Verchères",
+    "party": "Bloc"
+  },
+  "frank-baylis": {
+    "province": "QC",
+    "riding": "Pierrefonds—Dollard",
+    "party": "Liberal"
+  },
+  "mario-beaulieu": {
+    "province": "QC",
+    "riding": "La Pointe-de-l'Île",
+    "party": "Bloc"
+  },
+  "rachel-bendayan": {
+    "province": "QC",
+    "riding": "Outremont",
+    "party": "Liberal"
+  },
+  "maxime-bernier": {
+    "province": "QC",
+    "riding": "Beauce",
+    "party": "Independent"
+  },
+  "luc-berthold": {
+    "province": "QC",
+    "riding": "Mégantic—L'Érable",
+    "party": "Conservative"
+  },
+  "marie-claude-bibeau": {
+    "province": "QC",
+    "riding": "Compton—Stanstead",
+    "party": "Liberal"
+  },
+  "steven-blaney": {
+    "province": "QC",
+    "riding": "Bellechasse—Les Etchemins—Lévis",
+    "party": "Conservative"
+  },
+  "sylvie-boucher": {
+    "province": "QC",
+    "riding": "Beauport—Côte-de-Beaupré—Île dOrléans—Charlevoix",
+    "party": "Conservative"
+  },
+  "michel-boudrias": {
+    "province": "QC",
+    "riding": "Terrebonne",
+    "party": "Bloc"
+  },
+  "alexandre-boulerice": {
+    "province": "QC",
+    "riding": "Rosemont—La Petite-Patrie",
+    "party": "NDP"
+  },
+  "marjolaine-boutin-sweet": {
+    "province": "QC",
+    "riding": "Hochelaga",
+    "party": "NDP"
+  },
+  "pierre-breton": {
+    "province": "QC",
+    "riding": "Shefford",
+    "party": "Liberal"
+  },
+  "ruth-ellen-brosseau": {
+    "province": "QC",
+    "riding": "Berthier—Maskinongé",
+    "party": "NDP"
+  },
+  "guy-caron": {
+    "province": "QC",
+    "riding": "Rimouski-Neigette—Témiscouata—Les Basques",
+    "party": "NDP"
+  },
+  "francois-philippe-champagne": {
+    "province": "QC",
+    "riding": "Saint-Maurice—Champlain",
+    "party": "Liberal"
+  },
+  "francois-choquette": {
+    "province": "QC",
+    "riding": "Drummond",
+    "party": "NDP"
+  },
+  "alupa-clarke": {
+    "province": "QC",
+    "riding": "Beauport—Limoilou",
+    "party": "Conservative"
+  },
+  "gerard-deltell": {
+    "province": "QC",
+    "riding": "Louis-Saint-Laurent",
+    "party": "Conservative"
+  },
+  "anju-dhillon": {
+    "province": "QC",
+    "riding": "Dorval—Lachine—LaSalle",
+    "party": "Liberal"
+  },
+  "matthew-dube": {
+    "province": "QC",
+    "riding": "Beloeil—Chambly",
+    "party": "NDP"
+  },
+  "emmanuel-dubourg": {
+    "province": "QC",
+    "riding": "Bourassa",
+    "party": "Liberal"
+  },
+  "jean-yves-duclos": {
+    "province": "QC",
+    "riding": "Québec",
+    "party": "Liberal"
+  },
+  "pierre-luc-dusseault": {
+    "province": "QC",
+    "riding": "Sherbrooke",
+    "party": "NDP"
+  },
+  "faycal-el-khoury": {
+    "province": "QC",
+    "riding": "Laval—Les Îles",
+    "party": "Liberal"
+  },
+  "greg-fergus": {
+    "province": "QC",
+    "riding": "Hull—Aylmer",
+    "party": "Liberal"
+  },
+  "rheal-fortin": {
+    "province": "QC",
+    "riding": "Rivière-du-Nord",
+    "party": "Bloc"
+  },
+  "marc-garneau": {
+    "province": "QC",
+    "riding": "Notre-Dame-de-Grâce—Westmount",
+    "party": "Liberal"
+  },
+  "bernard-genereux": {
+    "province": "QC",
+    "riding": "Montmagny—L'Islet—Kamouraska—Rivière-du-Loup",
+    "party": "Conservative"
+  },
+  "marilene-gill": {
+    "province": "QC",
+    "riding": "Manicouagan",
+    "party": "Bloc"
+  },
+  "joel-godin": {
+    "province": "QC",
+    "riding": "Portneuf—Jacques-Cartier",
+    "party": "Conservative"
+  },
+  "jacques-gourde": {
+    "province": "QC",
+    "riding": "Lévis—Lotbinière",
+    "party": "Conservative"
+  },
+  "david-graham": {
+    "province": "QC",
+    "riding": "Laurentides—Labelle",
+    "party": "Liberal"
+  },
+  "richard-hebert": {
+    "province": "QC",
+    "riding": "Lac-Saint-Jean",
+    "party": "Liberal"
+  },
+  "anthony-housefather": {
+    "province": "QC",
+    "riding": "Mount Royal",
+    "party": "Liberal"
+  },
+  "angelo-iacono": {
+    "province": "QC",
+    "riding": "Alfred-Pellan",
+    "party": "Liberal"
+  },
+  "melanie-joly": {
+    "province": "QC",
+    "riding": "Ahuntsic-Cartierville",
+    "party": "Liberal"
+  },
+  "emmanuella-lambropoulos": {
+    "province": "QC",
+    "riding": "Saint-Laurent",
+    "party": "Liberal"
+  },
+  "david-lametti": {
+    "province": "QC",
+    "riding": "LaSalle—Émard—Verdun",
+    "party": "Liberal"
+  },
+  "linda-lapointe": {
+    "province": "QC",
+    "riding": "Rivière-des-Mille-Îles",
+    "party": "Liberal"
+  },
+  "stephane-lauzon": {
+    "province": "QC",
+    "riding": "Argenteuil—La Petite-Nation",
+    "party": "Liberal"
+  },
+  "helene-laverdiere": {
+    "province": "QC",
+    "riding": "Laurier—Sainte-Marie",
+    "party": "NDP"
+  },
+  "diane-lebouthillier": {
+    "province": "QC",
+    "riding": "Gaspésie—Les-Îles-de-la-Madeleine",
+    "party": "Liberal"
+  },
+  "joel-lightbound": {
+    "province": "QC",
+    "riding": "Louis-Hébert",
+    "party": "Liberal"
+  },
+  "steven-mackinnon": {
+    "province": "QC",
+    "riding": "Gatineau",
+    "party": "Liberal"
+  },
+  "simon-marcil": {
+    "province": "QC",
+    "riding": "Mirabel",
+    "party": "Bloc"
+  },
+  "richard-martel": {
+    "province": "QC",
+    "riding": "Chicoutimi—Le Fjord",
+    "party": "Conservative"
+  },
+  "remi-masse": {
+    "province": "QC",
+    "riding": "Avignon—La Mitis—Matane—Matapédia",
+    "party": "Liberal"
+  },
+  "alexandra-mendes": {
+    "province": "QC",
+    "riding": "Brossard—Saint-Lambert",
+    "party": "Liberal"
+  },
+  "marc-miller": {
+    "province": "QC",
+    "riding": "Ville-Marie—Le Sud-Ouest—Île-des-Soeurs",
+    "party": "Liberal"
+  },
+  "christine-moore": {
+    "province": "QC",
+    "riding": "Abitibi—Témiscamingue",
+    "party": "NDP"
+  },
+  "pierre-nantel": {
+    "province": "QC",
+    "riding": "Longueuil—Saint-Hubert",
+    "party": "Independent"
+  },
+  "eva-nassif": {
+    "province": "QC",
+    "riding": "Vimy",
+    "party": "Liberal"
+  },
+  "denis-paradis": {
+    "province": "QC",
+    "riding": "Brome—Missisquoi",
+    "party": "Liberal"
+  },
+  "pierre-paul-hus": {
+    "province": "QC",
+    "riding": "Charlesbourg—Haute-Saint-Charles",
+    "party": "Conservative"
+  },
+  "monique-pauze": {
+    "province": "QC",
+    "riding": "Repentigny",
+    "party": "Bloc"
+  },
+  "michel-picard": {
+    "province": "QC",
+    "riding": "Montarville",
+    "party": "Liberal"
+  },
+  "louis-plamondon": {
+    "province": "QC",
+    "riding": "Bécancour—Nicolet—Saurel",
+    "party": "Bloc"
+  },
+  "jean-claude-poissant": {
+    "province": "QC",
+    "riding": "La Prairie",
+    "party": "Liberal"
+  },
+  "anne-minh-thu-quach": {
+    "province": "QC",
+    "riding": "Salaberry—Suroît",
+    "party": "NDP"
+  },
+  "alain-rayes": {
+    "province": "QC",
+    "riding": "Richmond—Arthabaska",
+    "party": "Conservative"
+  },
+  "jean-rioux": {
+    "province": "QC",
+    "riding": "Saint-Jean",
+    "party": "Liberal"
+  },
+  "yves-robillard": {
+    "province": "QC",
+    "riding": "Marc-Aurèle-Fortin",
+    "party": "Liberal"
+  },
+  "pablo-rodriguez": {
+    "province": "QC",
+    "riding": "Honoré-Mercier",
+    "party": "Liberal"
+  },
+  "sherry-romanado": {
+    "province": "QC",
+    "riding": "Longueuil—Charles-LeMoyne",
+    "party": "Liberal"
+  },
+  "romeo-saganash": {
+    "province": "QC",
+    "riding": "Abitibi—Baie-James—Nunavik—Eeyou",
+    "party": "NDP"
+  },
+  "brigitte-sansoucy": {
+    "province": "QC",
+    "riding": "Saint-Hyacinthe—Bagot",
+    "party": "NDP"
+  },
+  "francis-scarpaleggia": {
+    "province": "QC",
+    "riding": "Lac-Saint-Louis",
+    "party": "Liberal"
+  },
+  "peter-schiefke": {
+    "province": "QC",
+    "riding": "Vaudreuil—Soulanges",
+    "party": "Liberal"
+  },
+  "brenda-shanahan": {
+    "province": "QC",
+    "riding": "Châteauguay—Lacolle",
+    "party": "Liberal"
+  },
+  "gabriel-ste-marie": {
+    "province": "QC",
+    "riding": "Joliette",
+    "party": "Bloc"
+  },
+  "luc-theriault": {
+    "province": "QC",
+    "riding": "Montcalm",
+    "party": "Bloc"
+  },
+  "justin-trudeau": {
+    "province": "QC",
+    "riding": "Papineau",
+    "party": "Liberal"
+  },
+  "karine-trudel": {
+    "province": "QC",
+    "riding": "Jonquière",
+    "party": "NDP"
+  },
+  "david-anderson": {
+    "province": "SK",
+    "riding": "Cypress Hills—Grasslands",
+    "party": "Conservative"
+  },
+  "sheri-benson": {
+    "province": "SK",
+    "riding": "Saskatoon West",
+    "party": "NDP"
+  },
+  "kelly-block": {
+    "province": "SK",
+    "riding": "Carlton Trail—Eagle Creek",
+    "party": "Conservative"
+  },
+  "rosemarie-falk": {
+    "province": "SK",
+    "riding": "Battlefords—Lloydminster",
+    "party": "Conservative"
+  },
+  "ralph-goodale": {
+    "province": "SK",
+    "riding": "Regina—Wascana",
+    "party": "Liberal"
+  },
+  "randy-hoback": {
+    "province": "SK",
+    "riding": "Prince Albert",
+    "party": "Conservative"
+  },
+  "georgina-jolibois": {
+    "province": "SK",
+    "riding": "Desnethé—Missinippi—Churchill River",
+    "party": "NDP"
+  },
+  "robert-gordon-kitchen": {
+    "province": "SK",
+    "riding": "Souris—Moose Mountain",
+    "party": "Conservative"
+  },
+  "tom-lukiwski": {
+    "province": "SK",
+    "riding": "Moose Jaw—Lake Centre—Lanigan",
+    "party": "Conservative"
+  },
+  "andrew-scheer": {
+    "province": "SK",
+    "riding": "Regina—Qu'Appelle",
+    "party": "Conservative"
+  },
+  "bradley-trost": {
+    "province": "SK",
+    "riding": "Saskatoon—University",
+    "party": "Conservative"
+  },
+  "cathay-wagantall": {
+    "province": "SK",
+    "riding": "Yorkton—Melville",
+    "party": "Conservative"
+  },
+  "kevin-waugh": {
+    "province": "SK",
+    "riding": "Saskatoon—Grasswood",
+    "party": "Conservative"
+  },
+  "erin-weir": {
+    "province": "SK",
+    "riding": "Regina—Lewvan",
+    "party": "Independent"
+  },
+  "larry-bagnell": {
+    "province": "YT",
+    "riding": "Yukon",
+    "party": "Liberal"
+  }
+}
